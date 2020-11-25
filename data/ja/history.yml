@@ -1,0 +1,5 @@
+########################### about service #############################
+history:
+  enable : true
+  title : "演奏会の記録"
+  image : "images/company/company-group-pic.jpg"
