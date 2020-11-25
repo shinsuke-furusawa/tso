@@ -61,12 +61,22 @@
 <section class="feature bg-2" style="background-image: url('{{ $data.homepage.news.bg_image | absURL}}')">
   <div class="container">
     <div class="row">
-      <div class="col-md-6 col-md-offset-6">
+      <div class="col-md-8 col-md-offset-5">
         <h2 class="section-subtitle">{{ .title | markdownify }}</h2>
         <ul class="latest-news-list">
           {{ range first 5 ($news)}}
           <li>
-            <h3 class="post-title"><time class="latest-news-time">{{.Params.Date.Format "2006/01/02"}}</time><label class="btn btn-sm btn-primary">{{ .Params.Category }}</label><a class="latest-news-description" href="{{ .Permalink }}">{{ .Params.description }}</a></h3>
+            <h3 class="post-title">
+              <time class="latest-news-time">
+                {{.Params.Date.Format "2006年01月02日"}}
+              </time>
+              {{ range .Params.categories }}
+              <label class="btn btn-sm btn-primary">
+                <a style="color: white;" href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}">{{ . | title | humanize }}</a>
+              </label>
+              {{ end }}
+              <a class="latest-news-description" href="{{ .Permalink }}">{{ .Params.title }}</a>
+            </h3>
           </li>
           {{ end }}
         </ul>

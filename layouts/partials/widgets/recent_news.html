@@ -1,0 +1,16 @@
+<div class="widget widget-latest-post">
+    <h4 class="widget-title">{{ i18n "latest_news" }}</h4>
+    {{ range first 4 (where site.RegularPages "Type" "news") }}
+    <div class="media">
+			{{ if .Params.Image }}	
+      <a class="pull-left" href="{{ .Permalink }}">
+        <img class="media-object" src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
+      </a>
+      {{ end }}
+      <div class="media-body">
+        <h4 class="media-heading"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+        <p>{{ .Summary | truncate 50 }}</p>
+      </div>
+    </div>
+    {{ end }}
+  </div>

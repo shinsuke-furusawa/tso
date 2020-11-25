@@ -17,7 +17,7 @@
 - id: posted_by
   translation: Posted By
 - id: read_more
-  translation: Continue Reading
+  translation: 続きを読む
 - id: latest_posts
   translation: Latest Posts
 - id: page_prev
@@ -27,4 +27,6 @@
 - id: tags
   translation: Tags
 - id: categories
-  translation: Categories
+  translation: カテゴリ
+- id: latest_news
+  translation: 最近のニュース

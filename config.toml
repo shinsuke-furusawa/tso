@@ -11,7 +11,6 @@ summaryLength = "30"
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = []
-LanguageCode = "ja"
 DefaultContentLanguage = "ja"
 DefaultContentLanguageInSubdir = true
 
@@ -77,6 +76,11 @@ attributes = ""
 link = "plugins/google-map/gmap.js"
 page = "contact/"
 attributes = ""
+
+############################### widgets #################################
+
+[params.newsWidgets]
+sidebar = ["recent_news", "news_category"]
 
 #################### default parameters ################################
 [params]
@@ -148,71 +152,68 @@ expire_days = 2
         [[Languages.ja.menu.main]]
         name = "演奏会の記録"
         URL = "history"
-        weight = 2
+        weight = 3
 
         [[Languages.ja.menu.main]]
         name = "ニュース"
         URL = "news"
-        weight = 3
-
-        [[Languages.ja.menu.main]]
-        name = "Blog"
-        URL = "blog"
         weight = 4
 
         [[Languages.ja.menu.main]]
+        name = "団員募集"
+        URL = "join"
         weight = 5
-        name = "Pages"
-        hasChildren = true
 
         [[Languages.ja.menu.main]]
-        parent = "Pages"
-        name = "FAQ"
-        URL = "faq"
-
-        [[Languages.ja.menu.main]]
-        parent = "Pages"
-        name = "Pricing"
-        URL = "pricing"
-
-        [[Languages.en.menu.main]]
-        parent = "Pages"
-        name = "Service"
-        URL = "service"
-
-        [[Languages.ja.menu.main]]
-        name = "Contact"
+        name = "お問い合わせ"
         URL = "/#contact"
         weight = 6
 
+        [[Languages.ja.menu.main]]
+        weight = 7
+        name = "団員専用"
+        hasChildren = true
+
+        [[Languages.ja.menu.main]]
+        parent = "団員専用"
+        weight = 1
+        name = "練習計画"
+        URL = "practice"
+
+        [[Languages.ja.menu.main]]
+        parent = "団員専用"
+        weight = 2
+        name = "掲示板"
+        URL = "http://tso.serio.jp/mem/imgboard.cgi"
+
         # footer menu
         [[Languages.ja.menu.footer]]
-        name = "About"
-        URL = "about"
+        name = "Home"
+        URL = "/"
         weight = 1
+
+        [[Languages.ja.menu.footer]]
+        name = "楽団紹介"
+        URL = "about"
+        weight = 2
+
+        [[Languages.ja.menu.footer]]
+        name = "演奏会の記録"
+        URL = "history"
+        weight = 3
 
         [[Languages.ja.menu.footer]]
         name = "ニュース"
         URL = "news"
-        weight = 2
-
-        [[Languages.ja.menu.footer]]
-        name = "Service"
-        URL = "service"
-        weight = 3
-
-        [[Languages.ja.menu.footer]]
-        name = "Pricing"
-        URL = "pricing"
         weight = 4
 
         [[Languages.ja.menu.footer]]
-        name = "FAQ"
-        URL = "faq"
+        name = "団員募集"
+        URL = "join"
         weight = 5
 
         [[Languages.ja.menu.footer]]
-        name = "Contact"
+        name = "お問い合わせ"
         URL = "/#contact"
         weight = 6
 
