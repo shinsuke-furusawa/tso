@@ -7,9 +7,11 @@
 <section class="page-wrapper">
 	<div class="container">
 		<div class="row">
+			{{if .Params.Image }}
 			<div class="post-thumb">
 				<img class="img-responsive" src="{{ .Params.Image | relURL }}" alt="{{ .Title }}"><br/><br/>
 			</div>
+			{{ end }}
 			<div class="block">
 				<div class="col-md-12">
 					{{ .Content }}

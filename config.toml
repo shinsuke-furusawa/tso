@@ -77,6 +77,11 @@ link = "plugins/google-map/gmap.js"
 page = "contact/"
 attributes = ""
 
+[[params.plugins.js]]
+link = "plugins/iframe-auto-height/iframe-auto-height.js"
+page = "/"
+attributes = ""
+
 ############################### widgets #################################
 
 [params.newsWidgets]

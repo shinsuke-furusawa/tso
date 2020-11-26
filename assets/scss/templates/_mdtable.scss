@@ -16,6 +16,10 @@ div.simple-table table {
         white-space: nowrap;
         -webkit-overflow-scrolling: touch;
     }
+
+	div.simple-table .practice {
+		font-size: 0.9em;
+	}
 }
 
 div.simple-table table th{
@@ -31,6 +35,85 @@ div.simple-table table td {
     text-align: center;
     padding:10px;
 }
+
 div.simple-table table th {
+	white-space: nowrap;
 	background-color: #f3f0f0;
+}
+
+div.simple-table table.practice {
+	margin: 0;
+}
+div.simple-table table.practice th {
+	padding: 4px;
+}
+div.simple-table table.practice td {
+	padding: 4px;
+}
+
+div.simple-table .year {
+	text-align: left;
+	background-color: #f8f8f8;
+}
+
+div.simple-table .sat {
+	color: blue;
+}
+
+div.simple-table .sun {
+	color: red;
+}
+
+div.simple-table .date {
+	text-align: right;
+}
+
+div.simple-table .time {
+	text-align: left;
+}
+
+div.simple-table .place {
+	text-align: left;
+}
+
+div.simple-table .plan {
+	text-align: left;
+}
+
+div.simple-table .conductor {
+	text-align: left;
+	color: red;
+}
+
+div.simple-table .trainer {
+	text-align: left;
+	color: blue;
+}
+
+div.simple-table .member {
+	text-align: left;
+	color: black;
+}
+
+div.simple-table .holiday {
+	font-weight: bold;
+	color: green;
+}
+
+div.simple-table .rehersal {
+	font-weight: bold;
+	color: blue;
+}
+
+div.simple-table .concert {
+	font-weight: bold;
+	color: red;
+}
+
+div.simple-table .remarks {
+	text-align: left;
+}
+
+div.simple-table .separator {
+	background-color: lightgray;
 }
