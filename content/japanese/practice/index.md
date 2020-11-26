@@ -212,7 +212,7 @@ draft: false
 		<td colspan="8" class="separator"></td>
 	</tr>
 	<tr>
-		<td colspan="8">演　奏　会　予　定</td>
+		<th colspan="8">演　奏　会　予　定</th>
 	</tr>
 	<tr>
 		<td colspan="8" class="year">2020年</td>
