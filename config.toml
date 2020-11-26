@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "http://example.org/"
+baseURL = "http://contrabass.cfbx.jp/tso/"
 title = "徳島交響楽団"
 theme = "airspace-hugo"
 #themesDir = "../.."
@@ -106,6 +106,7 @@ google_analitycs_id = "" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
 multi_author = false
 customCSS = ["/css/custom.css"]
+noindex = true
 
 # Preloader
 [params.preloader]
@@ -146,7 +147,7 @@ expire_days = 2
         # main menu
         [[Languages.ja.menu.main]]
         name = "Home"
-        URL = "/"
+        URL = ""
         weight = 1
 
         [[Languages.ja.menu.main]]
@@ -171,7 +172,7 @@ expire_days = 2
 
         [[Languages.ja.menu.main]]
         name = "お問い合わせ"
-        URL = "/contact"
+        URL = "contact"
         weight = 6
 
         [[Languages.ja.menu.main]]
@@ -224,7 +225,7 @@ expire_days = 2
 
         [[Languages.ja.menu.footer]]
         name = "お問い合わせ"
-        URL = "/contact"
+        URL = "contact"
         weight = 6
 
     ################################ English Language ########################
