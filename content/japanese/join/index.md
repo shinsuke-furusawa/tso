@@ -41,9 +41,26 @@ Image: "images/wrapper-img.png"
 
 ## 入会までの流れ
 
-1. 入会ご希望の方はまず練習会の見学をお願いします。
-2. その時に事務局、パートの代表者とお話していただき、入団が決まりましたら入会申込書に記入していただきます。　　　　　　　　　　　　　　　
-3. 見学の時に楽器をお持ちいただいて練習に参加していただいて結構です。
+<ul style="list-style-type: none;" class="experience-chart">
+    <li style="margin-top: 0; margin-bottom: 0;">
+        <div class="single-experience">
+            <h4 style="font-weight: 400;font-size: medium;">入会ご希望の方はまず練習会の見学をお願いします。<br/><br/></h4>
+        </div>
+    </li>
+    <li style="margin-top: 0; margin-bottom: 0;">
+        <div class="single-experience">
+            <h4 style="font-weight: 400;font-size: medium;">その時に事務局、パートの代表者とお話していただきます。<br/><br/></h4>
+        </div>
+    </li>
+    <li style="margin-top: 0; margin-bottom: 0;">
+        <div class="single-experience">
+            <h4 style="font-weight: 400;font-size: medium;">入団が決まりましたら入会申込書に記入していただきます。<br/><br/></h4>
+        </div>
+    </li>
+</ul>
+
+※　見学の時に楽器をお持ちいただいて練習に参加していただいて結構です。
+
 
 下記のフォームから見学のお申し込みをお願いします。
 
