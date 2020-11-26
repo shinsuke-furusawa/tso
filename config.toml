@@ -171,31 +171,24 @@ expire_days = 2
         weight = 5
 
         [[Languages.ja.menu.main]]
+        name = "練習計画"
+        URL = "practice"
+        weight = 6
+
+        [[Languages.ja.menu.main]]
         name = "お問い合わせ"
         URL = "contact"
-        weight = 6
+        weight = 7
 
         [[Languages.ja.menu.main]]
         name = "ジュニア"
         URL = "http://tso.serio.jp/junior/index.html"
-        weight = 6
+        weight = 8
 
         [[Languages.ja.menu.main]]
-        weight = 7
         name = "団員専用"
-        hasChildren = true
-
-        [[Languages.ja.menu.main]]
-        parent = "団員専用"
-        weight = 1
-        name = "練習計画"
-        URL = "practice"
-
-        [[Languages.ja.menu.main]]
-        parent = "団員専用"
-        weight = 2
-        name = "掲示板"
         URL = "http://tso.serio.jp/mem/imgboard.cgi"
+        weight = 9
 
         # footer menu
         [[Languages.ja.menu.footer]]
