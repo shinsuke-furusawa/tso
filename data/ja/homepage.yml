@@ -4,7 +4,7 @@ banner:
   bg_image : "images/slider-bg.jpg"
   bg_overlay : true
   title : "<span style='color: #9F3B42;'>T</span>okushima<br/><span style='color: #9F3B42;'>S</span>ymphony <br/><span style='color: #9F3B42;'>O</span>rchestra<br/>徳島交響楽団"
-  content : "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  content : "徳島交響楽団は徳島市内を拠点とし、定期演奏会、ニューイヤーコンサートを開催、<br/>また、徳島県音楽協会コンサートなど、徳島県の音楽文化の発展に幅広く貢献しているアマチュアのオーケストラです。<br/><br/><br/><br/><br/>"
   button:
     enable : false
     label : "Discover Our Project"
@@ -32,7 +32,7 @@ news:
 ############################ call to action ###########################
 cta:
   enable : true
-  bg_image : "images/call-to-action-bg.jpg"
+  bg_image : "images/71683791_1742740572523579_6465048394736861184_o.jpg"
   title : "みんなが充実感を持てるオーケストラです。あなたも一緒に音楽しましょう。"
   content : "徳島交響楽団への入団をご希望の方は、お気軽に問い合わせください。<br/>あなたの参加をお待ちしております。"
   button:

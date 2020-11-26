@@ -1,0 +1,31 @@
+{{ $data := index site.Data site.Language.Lang }}
+{{ with $data.homepage.contact }}
+<section id="contact" class="contact">
+    <div class="container">
+      <div class="row">
+        <div class="section-title text-center">
+          <h2>{{ .title | markdownify }}</h2>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-6">
+          <p>{{ .description | markdownify }}</p>
+          <div class="block">
+            <ul class="address-block">
+              <li><i class="ion-ios-location-outline"></i><span class="">{{i18n "location"}} : {{ site.Params.location | markdownify }}</span></li>
+              <li><i class="ion-ios-telephone-outline"></i>{{i18n "phone"}}: {{ site.Params.phone }}</li>
+              <li><i class="ion-ios-printer-outline"></i>{{i18n "fax"}}: {{ site.Params.fax }}</li>
+            </ul>
+            {{ if .button.enable }}
+            {{ with .button }}
+            <a href="{{ .link | relLangURL }}" class="btn btn-contact">{{ .label }}</a>
+            {{ end }}
+            {{ end }}  
+            </div>
+        </div>
+        <div class="col-md-5 col-md-offset-1">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13216.081263944285!2d134.5731387!3d34.09462!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2428d96bdc007c90!2z6Z-z5qW95Zar6Iy2IOOBv-OBjQ!5e0!3m2!1sja!2sjp!4v1606205452826!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+        </div>
+    </div>
+  </section>
+  {{ end }}

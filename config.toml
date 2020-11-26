@@ -10,9 +10,9 @@ summaryLength = "30"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = []
+disableLanguages = ["en"]
 DefaultContentLanguage = "ja"
-DefaultContentLanguageInSubdir = true
+DefaultContentLanguageInSubdir = false
 
 ################################# Outputs #################################
 # hugo outputs
@@ -171,7 +171,12 @@ expire_days = 2
 
         [[Languages.ja.menu.main]]
         name = "お問い合わせ"
-        URL = "/#contact"
+        URL = "/contact"
+        weight = 6
+
+        [[Languages.ja.menu.main]]
+        name = "ジュニア"
+        URL = "http://tso.serio.jp/junior/index.html"
         weight = 6
 
         [[Languages.ja.menu.main]]
@@ -219,7 +224,7 @@ expire_days = 2
 
         [[Languages.ja.menu.footer]]
         name = "お問い合わせ"
-        URL = "/#contact"
+        URL = "/contact"
         weight = 6
 
     ################################ English Language ########################
@@ -233,78 +238,27 @@ expire_days = 2
 
         ######################### english navigation #############################
         # main menu
-        [[Languages.en.menu.main]]
-        name = "Home"
-        URL = "/"
-        weight = 1
-
-        [[Languages.en.menu.main]]
-        name = "About"
-        URL = "about"
-        weight = 2
-
-        [[Languages.en.menu.main]]
-        name = "News"
-        URL = "news"
-        weight = 3
-
-        [[Languages.en.menu.main]]
-        name = "Blog"
-        URL = "blog"
-        weight = 4
-
-        [[Languages.en.menu.main]]
-        weight = 5
-        name = "Pages"
-        hasChildren = true
-
-        [[Languages.en.menu.main]]
-        parent = "Pages"
-        name = "FAQ"
-        URL = "faq"
-
-        [[Languages.en.menu.main]]
-        parent = "Pages"
-        name = "Pricing"
-        URL = "pricing"
-
-        [[Languages.en.menu.main]]
-        parent = "Pages"
-        name = "Service"
-        URL = "service"
-
-        [[Languages.en.menu.main]]
-        name = "Contact"
-        URL = "contact"
-        weight = 6
-
-        # footer menu
-        [[Languages.en.menu.footer]]
-        name = "About"
-        URL = "about"
-        weight = 1
-
-        [[Languages.en.menu.footer]]
-        name = "News"
-        URL = "news"
-        weight = 2
-
-        [[Languages.en.menu.footer]]
-        name = "Service"
-        URL = "service"
-        weight = 3
-
-        [[Languages.en.menu.footer]]
-        name = "Pricing"
-        URL = "pricing"
-        weight = 4
-
-        [[Languages.en.menu.footer]]
-        name = "FAQ"
-        URL = "faq"
-        weight = 5
-
-        [[Languages.en.menu.footer]]
-        name = "Contact"
-        URL = "contact"
-        weight = 6
+#        [[Languages.en.menu.main]]
+#        name = "Home"
+#        URL = "/"
+#        weight = 1
+#
+#        [[Languages.en.menu.main]]
+#        name = "About"
+#        weight = 2
+#
+#        [[Languages.en.menu.main]]
+#        name = "News"
+#        URL = "news"
+#        weight = 3
+#
+#        [[Languages.en.menu.main]]
+#        name = "Contact"
+#        URL = "contact"
+#        weight = 4
+#
+#        # footer menu
+#        [[Languages.en.menu.footer]]
+#        name = "Contact"
+#        URL = "contact"
+#        weight = 6
