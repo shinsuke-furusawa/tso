@@ -2,6 +2,7 @@
 title: "練習計画"
 date: 2020-11-26T00:42:52+09:00
 draft: false
+#bg_image: "images/featue-bg.jpg"
 ---
 
 <p style="color: blue; text-align: center;">2020年11月19日　　更新</p>

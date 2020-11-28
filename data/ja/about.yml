@@ -1,7 +1,7 @@
 ################################## About #####################################
 about:
   enable : true
-  image : "images/about.jpg"
+  image : "images/concert/2020NYC.jpg"
   title : "徳島交響楽団の沿革"
   content : "<p>1971年、徳島市民管弦楽団として発足。</p>
 <p>1982年、徳島交響楽団と改称した。</p>

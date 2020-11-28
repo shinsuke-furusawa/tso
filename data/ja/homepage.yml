@@ -1,10 +1,10 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/slider-bg.jpg"
+  bg_image : "images/wrapper-img.png"
   bg_overlay : true
   title : "<span style='color: #9F3B42;'>T</span>okushima<br/><span style='color: #9F3B42;'>S</span>ymphony <br/><span style='color: #9F3B42;'>O</span>rchestra<br/>徳島交響楽団"
-  content : "徳島交響楽団は徳島市内を拠点とし、定期演奏会、ニューイヤーコンサートを開催、<br/>また、徳島県音楽協会コンサートなど、徳島県の音楽文化の発展に幅広く貢献しているアマチュアのオーケストラです。<br/><br/><br/><br/><br/>"
+  content : "徳島交響楽団は徳島市内を拠点とし、定期演奏会、ニューイヤーコンサートを開催、<br/>また、徳島県音楽協会コンサートなど、徳島県の音楽文化の発展に幅広く貢献しているアマチュアオーケストラです。<br/><br/><br/><br/><br/>"
   button:
     enable : false
     label : "Discover Our Project"
@@ -16,7 +16,7 @@ about:
   title : "徳島交響楽団について"
   description : "徳島県徳島市で活動する市民オーケストラです。"
   content : "1971年、徳島市民管弦楽団として発足。1982年、徳島交響楽団と改称した。毎年、定期演奏会、ニューイヤーコンサートを開催し、鳴門「第九」交響曲演奏会、徳島県音楽協会コンサートなどに出演している。また、オペラや公開リハーサルなど多彩な演奏会により、幅広く徳島県の音楽文化の発展に貢献している。2007年と2012年に徳島で開催された国民文化祭では開会式、第九フェスティバル、オーケストラの祭典、閉会式等に出演した。2008年には徳島交響楽団ジュニアオーケストラを設立し、青少年の育成に努めている。2010年4月よりチャリティー・スプリングコンサートを定期開催し、社会貢献事業にも取り組んでいる。"
-  image : "images/wrapper-img.png"
+  image : "images/concert/2020NYC.jpg"
 
 ################################# News ################################
 news:
@@ -45,6 +45,7 @@ contact:
   enable : true
   title : "お問い合わせ"
   description : "徳島交響楽団ついて、各種お問い合わせは下記までお願いします。"
+  map : "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13216.081263944285!2d134.5731387!3d34.09462!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2428d96bdc007c90!2z6Z-z5qW95Zar6Iy2IOOBv-OBjQ!5e0!3m2!1sja!2sjp!4v1606205452826!5m2!1sja!2sjp"
   button:
     enable : true
     label : "メールでのお問い合わせはこちら"
