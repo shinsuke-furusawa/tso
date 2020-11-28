@@ -89,8 +89,8 @@ sidebar = ["recent_news", "news_category"]
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
-logo_width = "150px"
+logo = "images/tso-logo.png"
+logo_width = "250px"
 # Meta data
 description = "徳島交響楽団のウェブサイトです。"
 author = "徳島交響楽団"
@@ -100,7 +100,7 @@ fax = "088-637-1276"
 email = "front@tso.serio.jp"
 location = "〒771-0117 徳島市川内町鶴島277-23 音楽喫茶みき内 徳島交響楽団事務局"
 # contact form action
-contact_form_action = "#" # contact form works with : https://formspree.io
+#contact_form_action = "#" # contact form works with : https://formspree.io
 # Google Analitycs
 google_analitycs_id = "" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
@@ -171,23 +171,23 @@ expire_days = 2
         weight = 5
 
         [[Languages.ja.menu.main]]
-        name = "練習計画"
-        URL = "practice"
+        name = "お問い合わせ"
+        URL = "contact"
         weight = 6
 
         [[Languages.ja.menu.main]]
-        name = "お問い合わせ"
-        URL = "contact"
+        name = "練習計画"
+        URL = "practice"
         weight = 7
-
-        [[Languages.ja.menu.main]]
-        name = "ジュニア"
-        URL = "http://tso.serio.jp/junior/index.html"
-        weight = 8
 
         [[Languages.ja.menu.main]]
         name = "団員専用"
         URL = "http://tso.serio.jp/mem/imgboard.cgi"
+        weight = 8
+
+        [[Languages.ja.menu.main]]
+        name = "ジュニア"
+        URL = "http://tso.serio.jp/junior/index.html"
         weight = 9
 
         # footer menu
@@ -222,16 +222,16 @@ expire_days = 2
         weight = 6
 
     ################################ English Language ########################
-    [Languages.en]
-    languageName = "English"
-    languageCode = "en-us"
-    contentDir = "content/english"
-    weight = 2
-    # copyright
-    copyright = "Copyright &copy; 2003 - {year} Tokushima Symphony Orchestra All Rights Reserved."
-
-        ######################### english navigation #############################
-        # main menu
+#    [Languages.en]
+#    languageName = "English"
+#    languageCode = "en-us"
+#    contentDir = "content/english"
+#    weight = 2
+#    # copyright
+#    copyright = "Copyright &copy; 2003 - {year} Tokushima Symphony Orchestra All Rights Reserved."
+#
+#        ######################### english navigation #############################
+#        # main menu
 #        [[Languages.en.menu.main]]
 #        name = "Home"
 #        URL = "/"
