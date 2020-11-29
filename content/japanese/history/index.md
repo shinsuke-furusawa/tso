@@ -2,7 +2,7 @@
 title: "演奏会の記録"
 description: "徳島交響楽団がこれまでに行った演奏会の記録です。"
 draft: false
-#bg_image: "images/featue-bg.jpg"
+bg_image: "images/49-1-2.jpg"
 Image: "images/wrapper-img.png"
 ---
 

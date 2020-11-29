@@ -89,8 +89,8 @@ sidebar = ["recent_news", "news_category"]
 
 #################### default parameters ################################
 [params]
-logo = "images/tso-logo.png"
-logo_width = "250px"
+logo = "images/tso-title-logo.jpg"
+logo_width = "220px"
 # Meta data
 description = "徳島交響楽団のウェブサイトです。"
 author = "徳島交響楽団"
