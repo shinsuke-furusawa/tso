@@ -67,15 +67,17 @@
           {{ range first 5 ($news)}}
           <li>
             <h3 class="post-title">
-              <time class="latest-news-time">
-                {{.Params.Date.Format "2006年01月02日"}}
-              </time>
               {{ range .Params.categories }}
               <label class="btn btn-sm btn-primary">
                 <a style="color: white;" href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}">{{ . | title | humanize }}</a>
               </label>
               {{ end }}
-              <a class="latest-news-description" href="{{ .Permalink }}">{{ .Params.title }}</a>
+              <a class="latest-news-description" href="{{ .Permalink }}">
+                <time class="latest-news-time">
+                  {{.Params.Date.Format "2006年01月02日"}}
+                </time>
+                  {{ .Params.title }}
+              </a>
             </h3>
           </li>
           {{ end }}
