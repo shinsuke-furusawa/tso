@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "http://contrabass.cfbx.jp/tso/"
+baseURL = "http://tso.serio.jp/"
 title = "徳島交響楽団"
 theme = "airspace-hugo"
 #themesDir = "../.."
@@ -106,7 +106,7 @@ google_analitycs_id = "" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
 multi_author = false
 customCSS = ["/css/custom.css"]
-noindex = true
+noindex = false
 
 # Preloader
 [params.preloader]
