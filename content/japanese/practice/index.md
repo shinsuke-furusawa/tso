@@ -5,7 +5,7 @@ draft: false
 bg_image: "images/49-1-2.jpg"
 ---
 
-<p style="color: blue; text-align: center;">2021年1月20日　　更新</p>
+<p style="color: blue; text-align: center;">2021年2月4日　　更新</p>
 
 {{< mdtable class = "simple-table" >}}
 <table class="practice">
@@ -118,12 +118,71 @@ bg_image: "images/49-1-2.jpg"
 		<td class="member"></td>
 		<td class="remarks"></td>
 	</tr>
-		<tr>
+	<tr>
 		<td class="date">20日</td>
 		<td class="sat">土</td>
 		<td class="time">18:30～21:00</td>
-		<td class="place"></td>
-		<td class="plan">（練習再開）</td>
+		<td class="place">
+			沖洲コミセン<br/>
+			<span style="color: blueviolet;">2Vn</span>
+		</td>
+		<td class="plan">合奏</td>
+		<td class="member"></td>
+		<td class="remarks"></td>
+	</tr>
+	<tr>
+		<td class="date">27日</td>
+		<td class="sat">土</td>
+		<td class="time">18:30～21:00</td>
+		<td class="place">
+			沖洲コミセン<br/>
+			<span style="color: blueviolet;">Va</span>
+		</td>
+		<td class="plan">合奏</td>
+		<td class="member"></td>
+		<td class="remarks"></td>
+	</tr>
+	<tr>
+		<td class="date">3月6日</td>
+		<td class="sat">土</td>
+		<td class="time">18:30～21:00</td>
+		<td class="place">
+			沖洲コミセン
+		</td>
+		<td class="plan"></td>
+		<td class="member"></td>
+		<td class="remarks">3/6 ジュニア通常練習</td>
+	</tr>
+	<tr>
+		<td class="date">13日</td>
+		<td class="sat">土</td>
+		<td class="time">18:30～21:00</td>
+		<td class="place">
+			沖洲コミセン
+		</td>
+		<td class="plan"></td>
+		<td class="member"></td>
+		<td class="remarks"></td>
+	</tr>
+	<tr>
+		<td class="date">20日</td>
+		<td class="sat">土</td>
+		<td class="time">18:30～21:00</td>
+		<td class="place">
+			沖洲コミセン
+		</td>
+		<td class="plan"></td>
+		<td class="member"></td>
+		<td class="remarks"></td>
+	</tr>
+	<tr>
+		<td class="date">27日</td>
+		<td class="sat">土</td>
+		<td class="time">18:30～21:00</td>
+		<td class="place">
+			沖洲コミセン
+		</td>
+		<td class="plan"></td>
 		<td class="member"></td>
 		<td class="remarks"></td>
 	</tr>
