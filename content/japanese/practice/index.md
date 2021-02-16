@@ -107,7 +107,7 @@ bg_image: "images/49-1-2.jpg"
 		<td class="place"></td>
 		<td class="plan holiday">休み</td>
 		<td class="member"></td>
-		<td class="remarks">2/5 ジュニア通常練習</td>
+		<td class="remarks"></td>
 	</tr>
 	<tr>
 		<td class="date">13日</td>
