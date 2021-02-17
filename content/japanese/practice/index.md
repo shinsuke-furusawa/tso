@@ -5,7 +5,7 @@ draft: false
 bg_image: "images/49-1-2.jpg"
 ---
 
-<p style="color: blue; text-align: center;">2021年2月4日　　更新</p>
+<p style="color: blue; text-align: center;">2021年2月17日　　更新</p>
 
 {{< mdtable class = "simple-table" >}}
 <table class="practice">
@@ -126,8 +126,8 @@ bg_image: "images/49-1-2.jpg"
 			沖洲コミセン<br/>
 			<span style="color: blueviolet;">2Vn</span>
 		</td>
-		<td class="plan">合奏</td>
-		<td class="member"></td>
+		<td class="plan">合奏　運命（全楽章）</td>
+		<td class="member">北島さん</td>
 		<td class="remarks"></td>
 	</tr>
 	<tr>
@@ -221,15 +221,15 @@ bg_image: "images/49-1-2.jpg"
 		<td colspan="2" class="remarks">指揮：松下 京介<br/>ギター：徳永 真一郎</td>
 	</tr>
 	<tr>
-		<td class="date">5月9日</td>
+		<td class="date">8月8日</td>
 		<td class="sun">日</td>
-		<td colspan="4" class="plan">スプリングコンサート（仮称）</td>
+		<td colspan="4" class="plan">徳島県主催音楽祭　参加予定</td>
 		<td colspan="2" class="remarks"></td>
 	</tr> 
 	<tr>
 		<td class="date">8月22日</td>
 		<td class="sun">日</td>
-		<td colspan="4" class="plan">ふれあいコンサートｉｎ藍住（仮称）</td>
+		<td colspan="4" class="plan">藍住町ホールコンサート（藍住町総合文化ホール）</td>
 		<td colspan="2" class="remarks"></td>
 	</tr> 
 	<tr>
