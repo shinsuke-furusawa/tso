@@ -4,6 +4,22 @@
     }
 }
 
+@media screen and (max-width: 370px){
+    .contact-map {
+        width: 300px;
+        height: 300px;
+    }
+
+    .slider .block h1 {
+        font-size: 30px;
+    }
+
+    img.tso-logo {
+        width: 60px;
+        height: 60px;
+    }
+}
+
 .navigation a.navbar-brand {
     padding: 0px 0px 0px 0px;
     margin: 0px 0px 0px 0px;
