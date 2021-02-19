@@ -102,7 +102,7 @@ location = "〒771-0117 徳島市川内町鶴島277-23 音楽喫茶みき内 徳
 # contact form action
 #contact_form_action = "#" # contact form works with : https://formspree.io
 # Google Analitycs
-google_analitycs_id = "" # Your ID# search
+google_analitycs_id = "UA-569434-6" # Your ID# search
 # multi-author support (if set to true, you must use an Array in the author field)
 multi_author = false
 customCSS = ["/css/custom.css"]
