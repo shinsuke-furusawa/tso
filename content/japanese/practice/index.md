@@ -201,7 +201,7 @@ bg_image: "images/49-1-2.jpg"
 		<td class="time">18:30～21:00</td>
 		<td class="place">
 			沖洲コミセン<br/>
-			<span style="color: blueviolet;">Va</span>
+			<span style="color: blueviolet;">2Vn</span>
 		</td>
 		<td class="plan">合奏</td>
 		<td class="member"></td>
