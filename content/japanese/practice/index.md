@@ -5,7 +5,7 @@ draft: false
 bg_image: "images/49-1-2.jpg"
 ---
 
-<p style="color: blue; text-align: center;">2021年2月22日　　更新</p>
+<p style="color: blue; text-align: center;">2021年3月7日　更新</p>
 
 {{< mdtable class = "simple-table" >}}
 <table class="practice">
@@ -110,8 +110,8 @@ bg_image: "images/49-1-2.jpg"
 			沖洲コミセン<br/>
 			<span style="color: blueviolet;">Vc Cb</span>
 		</td>
-		<td class="plan">合奏</td>
-		<td class="member"></td>
+		<td class="plan">合奏　ドヴォ８（全楽章）</td>
+		<td class="member">猪子さん</td>
 		<td class="remarks"></td>
 	</tr>
 	<tr>
