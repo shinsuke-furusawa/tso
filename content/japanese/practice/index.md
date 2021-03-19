@@ -131,8 +131,8 @@ bg_image: "images/49-1-2.jpg"
 			沖洲コミセン<br/>
 			<span style="color: blueviolet;">木管</span>
 		</td>
-		<td class="plan">合奏</td>
-		<td class="member"></td>
+		<td class="plan">合奏　ドヴォ８（全楽章）</td>
+		<td class="member">豊田さん</td>
 		<td class="remarks"></td>
 	</tr>
 	<tr>
@@ -152,8 +152,8 @@ bg_image: "images/49-1-2.jpg"
 			沖洲コミセン<br/>
 			<span style="color: blueviolet;">金管</span>
 		</td>
-		<td class="plan">合奏</td>
-		<td class="member"></td>
+		<td class="plan">合奏　運命（全楽章）</td>
+		<td class="member">北島さん</td>
 		<td class="remarks"></td>
 	</tr>
 	<tr>
@@ -182,8 +182,8 @@ bg_image: "images/49-1-2.jpg"
 			沖洲コミセン<br/>
 			<span style="color: blueviolet;">1Vn</span>
 		</td>
-		<td class="plan">合奏</td>
-		<td class="member"></td>
+		<td class="plan">合奏　ペールギュント、ハンガリー舞曲、アイネクライネ</td>
+		<td class="member">豊田さん</td>
 		<td class="remarks">5/8 ジュニア通常練習</td>
 	</tr>
 	<tr>
@@ -203,8 +203,8 @@ bg_image: "images/49-1-2.jpg"
 			沖洲コミセン<br/>
 			<span style="color: blueviolet;">2Vn</span>
 		</td>
-		<td class="plan">合奏</td>
-		<td class="member"></td>
+		<td class="plan">合奏　ペールギュント、ハンガリー舞曲、アイネクライネ</td>
+		<td class="member">豊田さん</td>
 		<td class="remarks">5/22 ジュニア合同練習</td>
 	</tr>
 	<tr>
