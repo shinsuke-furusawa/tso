@@ -5,7 +5,7 @@ draft: false
 bg_image: "images/49-1-2.jpg"
 ---
 
-<p style="color: blue; text-align: center;">2021年3月15日　更新</p>
+<p style="color: blue; text-align: center;">2021年4月11日　更新</p>
 
 {{< mdtable class = "simple-table" >}}
 <table class="practice">
@@ -25,105 +25,6 @@ bg_image: "images/49-1-2.jpg"
 		<td colspan="7"  class="year">2021年</td>
 	</tr>
 	<tr>
-		<td class="date">1月24日</td>
-		<td class="sun">日</td>
-		<td class="time">10:00～GP<br/>14:00～本番</td>
-		<td class="place">鳴門市文化会館</td>
-		<td class="plan concert">2021 ニューイヤーコンサート</td>
-		<td class="conductor">松下先生<br/>徳永先生</td>
-		<td class="remarks"></td>
-	</tr>
-	<tr>
-		<td class="date">30日</td>
-		<td class="sat">土</td>
-		<td class="time"></td>
-		<td class="place"></td>
-		<td class="plan holiday">休み</td>
-		<td class="member"></td>
-		<td class="remarks"></td>
-	</tr>
-	<tr>
-		<td class="date">2月6日</td>
-		<td class="sat">土</td>
-		<td class="time"></td>
-		<td class="place"></td>
-		<td class="plan holiday">休み</td>
-		<td class="member"></td>
-		<td class="remarks"></td>
-	</tr>
-	<tr>
-		<td class="date">13日</td>
-		<td class="sat">土</td>
-		<td class="time"></td>
-		<td class="place"></td>
-		<td class="plan holiday">休み</td>
-		<td class="member"></td>
-		<td class="remarks"></td>
-	</tr>
-	<tr>
-		<td class="date">20日</td>
-		<td class="sat">土</td>
-		<td class="time">18:30～21:00</td>
-		<td class="place">
-			沖洲コミセン<br/>
-			<span style="color: blueviolet;">2Vn</span>
-		</td>
-		<td class="plan">合奏　運命（全楽章）</td>
-		<td class="member">北島さん</td>
-		<td class="remarks"></td>
-	</tr>
-	<tr>
-		<td class="date">27日</td>
-		<td class="sat">土</td>
-		<td class="time"></td>
-		<td class="place"></td>
-		<td class="plan holiday">休み</td>
-		<td class="member"></td>
-		<td class="remarks"></td>
-	</tr>
-	<tr>
-		<td class="date">3月6日</td>
-		<td class="sat">土</td>
-		<td class="time">18:30～21:00</td>
-		<td class="place">
-			沖洲コミセン<br/>
-			<span style="color: blueviolet;">Va</span>
-		</td>
-		<td class="plan">合奏　運命（全楽章）</td>
-		<td class="member">猪子さん</td>
-		<td class="remarks">3/6 ジュニア通常練習</td>
-	</tr>
-	<tr>
-		<td class="date">13日</td>
-		<td class="sat">土</td>
-		<td class="time"></td>
-		<td class="place"></td>
-		<td class="plan holiday">休み</td>
-		<td class="member"></td>
-		<td class="remarks"></td>
-	</tr>
-	<tr>
-		<td class="date">20日</td>
-		<td class="sat">土</td>
-		<td class="time">18:30～21:00</td>
-		<td class="place">
-			沖洲コミセン<br/>
-			<span style="color: blueviolet;">Vc Cb</span>
-		</td>
-		<td class="plan">合奏　ドヴォ８（全楽章）</td>
-		<td class="member">猪子さん</td>
-		<td class="remarks"></td>
-	</tr>
-	<tr>
-		<td class="date">27日</td>
-		<td class="sat">土</td>
-		<td class="time"></td>
-		<td class="place"></td>
-		<td class="plan holiday">休み</td>
-		<td class="member"></td>
-		<td class="remarks"></td>
-	</tr>
-	<tr>
 		<td class="date">4月3日</td>
 		<td class="sat">土</td>
 		<td class="time">18:30～21:00</td>
@@ -132,7 +33,7 @@ bg_image: "images/49-1-2.jpg"
 			<span style="color: blueviolet;">木管</span>
 		</td>
 		<td class="plan">合奏　ドヴォ８（全楽章）</td>
-		<td class="member">豊田さん</td>
+		<td class="member">猪子さん</td>
 		<td class="remarks"></td>
 	</tr>
 	<tr>
@@ -182,16 +83,16 @@ bg_image: "images/49-1-2.jpg"
 			沖洲コミセン<br/>
 			<span style="color: blueviolet;">1Vn</span>
 		</td>
-		<td class="plan">合奏　ペールギュント、ハンガリー舞曲、アイネクライネ</td>
+		<td class="plan">合奏　運命①、ペールギュント、ハンガリー舞曲、さんぽ、アイネクライネ</td>
 		<td class="member">豊田さん</td>
 		<td class="remarks">5/8 ジュニア通常練習</td>
 	</tr>
 	<tr>
 		<td class="date">15日</td>
 		<td class="sat">土</td>
-		<td class="time"></td>
+		<td class="time">18:30～21:00</td>
 		<td class="place"></td>
-		<td class="plan holiday">休み</td>
+		<td class="plan">合奏　運命（全楽章）</td>
 		<td class="member"></td>
 		<td class="remarks"></td>
 	</tr>
@@ -201,24 +102,35 @@ bg_image: "images/49-1-2.jpg"
 		<td class="time">18:30～21:00</td>
 		<td class="place">
 			沖洲コミセン<br/>
-			<span style="color: blueviolet;">2Vn</span>
 		</td>
-		<td class="plan">合奏　ペールギュント、ハンガリー舞曲、アイネクライネ</td>
-		<td class="member">豊田さん</td>
+		<td class="plan">合奏　ドヴォ８（全楽章）</td>
+		<td class="member"></td>
 		<td class="remarks">5/22 ジュニア合同練習</td>
 	</tr>
 	<tr>
 		<td class="date">29日</td>
 		<td class="sat">土</td>
-		<td class="time"></td>
+		<td class="time">18:30～21:00</td>
 		<td class="place"></td>
-		<td class="plan holiday">休み</td>
-		<td class="member"></td>
+		<td class="plan">合奏　運命①②③</td>
+		<td class="conductor">田中先生</td>
+		<td class="remarks"></td>
+	</tr>
+	<tr>
+		<td class="date">30日</td>
+		<td class="sun">日</td>
+		<td class="time">10:00～16:00</td>
+		<td class="place"></td>
+		<td class="plan">合奏　10:00 ～ 11:30 運命③④<br/>　　　12:30 ～ 16:00 ドヴォ８</td>
+		<td class="conductor">田中先生</td>
 		<td class="remarks"></td>
 	</tr>
 	<tr>
 		<td>諸連絡</td>
 		<td colspan="6" class="remarks">
+			<span style="color: blue;">＜指揮者練習日＞</span><br/>
+			・広田先生：7/31、8/1、8/21,22<br/>
+			・田中先生：5/29,30、7/24,25、8/7,8、9/11,12、9/18,19、9/25,26<br/>					
 			<span style="color: blue;">＜練習後の施錠当番について＞</span><br/>
 			・当番のパートは練習場所の欄に並記（1Vn→2Vn→Va→VcCb→木管→金管　の輪番制）<br/>
 			・施錠当番の役割：パイプ椅子の収納確認、可動観覧席の展開（けやきホール）、忘れ物等の確認、空調停止、消灯、施錠（けやきホール）<br/>
@@ -260,7 +172,7 @@ bg_image: "images/49-1-2.jpg"
 		<td class="date">8月22日</td>
 		<td class="sun">日</td>
 		<td colspan="4" class="plan">藍住町ホールコンサート（藍住町総合文化ホール）</td>
-		<td colspan="2" class="remarks"></td>
+		<td colspan="2" class="remarks">指揮：広田 智之</td>
 	</tr> 
 	<tr>
 		<td class="date">9月26日</td>
