@@ -104,7 +104,7 @@ bg_image: "images/49-1-2.jpg"
 		<td class="sat">土</td>
 		<td class="time">18:30～21:00</td>
 		<td class="place">
-			月見ヶ浜海浜公園<br/>
+			月見ヶ丘海浜公園<br/>
 			<span style="color: blueviolet;">Va</span>
 		</td>
 		<td class="plan">合奏　ドヴォ８（全楽章）</td>
