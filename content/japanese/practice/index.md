@@ -5,7 +5,7 @@ draft: false
 bg_image: "images/49-1-2.jpg"
 ---
 
-<p style="color: blue; text-align: center;">2021年4月11日　更新</p>
+<p style="color: blue; text-align: center;">2021年4月20日　更新</p>
 
 {{< mdtable class = "simple-table" >}}
 <table class="practice">
@@ -91,9 +91,12 @@ bg_image: "images/49-1-2.jpg"
 		<td class="date">15日</td>
 		<td class="sat">土</td>
 		<td class="time">18:30～21:00</td>
-		<td class="place"></td>
+		<td class="place">
+			沖洲コミセン<br/>
+			<span style="color: blueviolet;">2Vn</span>
+		</td>
 		<td class="plan">合奏　運命（全楽章）</td>
-		<td class="member"></td>
+		<td class="member">北島さん</td>
 		<td class="remarks"></td>
 	</tr>
 	<tr>
@@ -101,17 +104,21 @@ bg_image: "images/49-1-2.jpg"
 		<td class="sat">土</td>
 		<td class="time">18:30～21:00</td>
 		<td class="place">
-			沖洲コミセン<br/>
+			月見ヶ浜海浜公園<br/>
+			<span style="color: blueviolet;">Va</span>
 		</td>
 		<td class="plan">合奏　ドヴォ８（全楽章）</td>
-		<td class="member"></td>
+		<td class="member">猪子さん</td>
 		<td class="remarks">5/22 ジュニア合同練習</td>
 	</tr>
 	<tr>
 		<td class="date">29日</td>
 		<td class="sat">土</td>
 		<td class="time">18:30～21:00</td>
-		<td class="place"></td>
+		<td class="place">
+			沖洲コミセン<br/>
+			<span style="color: blueviolet;">Vc、Cb</span>
+		</td>
 		<td class="plan">合奏　運命①②③</td>
 		<td class="conductor">田中先生</td>
 		<td class="remarks"></td>
@@ -120,8 +127,12 @@ bg_image: "images/49-1-2.jpg"
 		<td class="date">30日</td>
 		<td class="sun">日</td>
 		<td class="time">10:00～16:00</td>
-		<td class="place"></td>
-		<td class="plan">合奏　10:00 ～ 11:30 運命③④<br/>　　　12:30 ～ 16:00 ドヴォ８</td>
+		<td class="place">
+			沖洲コミセン<br/>
+			<span style="color: blueviolet;">木管</span>
+		</td>
+		<td class="plan">合奏　10:00 ～ 11:30 運命③④<br/>
+		　　　12:30 ～ 16:00 ドヴォ８</td>
 		<td class="conductor">田中先生</td>
 		<td class="remarks"></td>
 	</tr>
