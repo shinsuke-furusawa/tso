@@ -30,3 +30,10 @@
     background-repeat:  no-repeat; 
     background-position: bottom center; 
 }
+
+//・黒い二重線による取り消し線
+span.del {
+  text-decoration-line: line-through;
+  text-decoration-style: double;
+  text-decoration-color: black;
+}
