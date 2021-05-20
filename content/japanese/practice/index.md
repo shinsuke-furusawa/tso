@@ -115,13 +115,13 @@ bg_image: "images/49-1-2.jpg"
 	<tr>
 		<td class="date">29日</td>
 		<td class="sat">土</td>
-		<td class="time">18:30～21:00</td>
+		<td class="time">18:00～20:00</td>
 		<td class="place">
 			沖洲コミセン<br/>
 			<span style="color: blueviolet;">1Vn</span>
 		</td>
 		<td class="plan">合奏　運命①、ペールギュント、ハンガリー舞曲、さんぽ、アイネクライネ</td>
-		<td class="member"></td>
+		<td class="member">猪子さん</td>
 		<td class="remarks"></td>
 	</tr>
 	<tr>
@@ -132,22 +132,22 @@ bg_image: "images/49-1-2.jpg"
 			沖洲コミセン<br/>
 			<span style="color: blueviolet;">2Vn</span>
 		</td>
-		<td class="plan"></td>
-		<td class="member"></td>
-		<td class="remarks">
-			6/5 又は 6/12 に通常総会開催予定<br/>
-			その場合の練習時間は 19:00 ～ 21:00
-		</td>
+		<td class="plan">分奏　ドヴォ８</td>
+		<td class="member">猪子さん<br/>豊田さん</td>
+		<td class="remarks"></td>
 	</tr>
 	<tr>
 		<td class="date">12日</td>
 		<td class="sat">土</td>
-		<td class="time">18:30～21:00</td>
+		<td class="time">18:00～21:00</td>
 		<td class="place">
 			月見ヶ丘海浜公園
 		</td>
-		<td class="plan"></td>
-		<td class="member"></td>
+		<td class="plan">
+			18:00～19:00通常総会<br/>
+			合奏　ドヴォ８
+		</td>
+		<td class="member">猪子さん</td>
 		<td class="remarks">6/12 ジュニア通常練習</td>
 	</tr>
 	<tr>
@@ -157,8 +157,11 @@ bg_image: "images/49-1-2.jpg"
 		<td class="place">
 			沖洲コミセン
 		</td>
-		<td class="plan"></td>
-		<td class="member"></td>
+		<td class="plan">分奏　運命</td>
+		<td class="member">
+			猪子さん<br/>
+			北島さん
+		</td>
 		<td class="remarks">6/19 ジュニア合同練習</td>
 	</tr>
 	<tr>
@@ -168,7 +171,7 @@ bg_image: "images/49-1-2.jpg"
 		<td class="place">
 			月見ヶ丘海浜公園
 		</td>
-		<td class="plan"></td>
+		<td class="plan">合奏　運命</td>
 		<td class="trainer">池田先生</td>
 		<td class="remarks"></td>
 	</tr>
@@ -219,8 +222,12 @@ bg_image: "images/49-1-2.jpg"
 		<td class="place">
 		</td>
 		<td class="plan">
+			合奏　運命、ドヴォ８
 		</td>
-		<td class="member"></td>
+		<td class="member">
+			北島さん<br/>
+			猪子さん
+		</td>
 		<td class="remarks"></td>
 	</tr>
 	<tr>
@@ -279,8 +286,9 @@ bg_image: "images/49-1-2.jpg"
 		<td class="place">
 		</td>
 		<td class="plan">
+			合奏　運命①、ペールギュント、ハンガリー舞曲、さんぽ、アイネクライネ
 		</td>
-		<td class="member"></td>
+		<td class="member">猪子さん</td>
 		<td class="remarks">8/7 ジュニア合同練習</td>
 	</tr>
 	<tr>
@@ -335,7 +343,10 @@ bg_image: "images/49-1-2.jpg"
 			弦パート練習　運命<br/>
 			管分奏　運命
 		</td>
-		<td class="member"></td>
+		<td class="member">
+			弦トップ<br/>
+			北島さん
+		</td>
 		<td class="remarks"></td>
 	</tr>
 	<tr>
@@ -349,7 +360,10 @@ bg_image: "images/49-1-2.jpg"
 			弦パート練習　ドヴォ８<br/>
 			管分奏　ドヴォ８
 		</td>
-		<td class="member"></td>
+		<td class="member">
+			弦トップ<br/>
+			豊田さん
+		</td>
 		<td class="remarks">9/4 ジュニア通常練習</td>
 	</tr>
 	<tr>
