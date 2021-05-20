@@ -5,7 +5,7 @@ draft: false
 bg_image: "images/49-1-2.jpg"
 ---
 
-<p style="color: blue; text-align: center;">2021年5月11日　更新</p>
+<p style="color: blue; text-align: center;">2021年5月21日　更新</p>
 
 {{< mdtable class = "simple-table" >}}
 <table class="practice">
@@ -101,13 +101,15 @@ bg_image: "images/49-1-2.jpg"
 	<tr>
 		<td class="date">22日</td>
 		<td class="sat">土</td>
-		<td class="time">18:30～21:00</td>
+		<td class="time"><span class="del">18:30～21:00</span></td>
 		<td class="place">
-			月見ヶ丘海浜公園<br/>
-			<span style="color: blueviolet;">1Vn</span>
+			<span class="del">月見ヶ丘海浜公園</span>
 		</td>
-		<td class="plan">合奏　ドヴォ８（全楽章）</td>
-		<td class="member">猪子さん</td>
+		<td class="plan">
+			<span style="color:red;font-weight:800;">※ とくしまアラート発動のため練習中止</span><br/>
+			<span class="del">合奏　ドヴォ８（全楽章）</span>
+			</td>
+		<td class="member"><span class="del">猪子さん</span></td>
 		<td class="remarks">5/22 ジュニア合同練習</td>
 	</tr>
 	<tr>
@@ -116,7 +118,7 @@ bg_image: "images/49-1-2.jpg"
 		<td class="time">18:30～21:00</td>
 		<td class="place">
 			沖洲コミセン<br/>
-			<span style="color: blueviolet;">2Vn</span>
+			<span style="color: blueviolet;">1Vn</span>
 		</td>
 		<td class="plan">合奏　運命①、ペールギュント、ハンガリー舞曲、さんぽ、アイネクライネ</td>
 		<td class="member"></td>
@@ -127,7 +129,8 @@ bg_image: "images/49-1-2.jpg"
 		<td class="sat">土</td>
 		<td class="time">18:30～21:00</td>
 		<td class="place">
-			沖洲コミセン
+			沖洲コミセン<br/>
+			<span style="color: blueviolet;">2Vn</span>
 		</td>
 		<td class="plan"></td>
 		<td class="member"></td>
