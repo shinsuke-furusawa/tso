@@ -5,7 +5,7 @@ draft: false
 bg_image: "images/49-1-2.jpg"
 ---
 
-<p style="color: blue; text-align: center;">2021年5月28日　更新</p>
+<p style="color: blue; text-align: center;">2021年6月14日　更新</p>
 
 {{< mdtable class = "simple-table" >}}
 <table class="practice">
@@ -132,7 +132,7 @@ bg_image: "images/49-1-2.jpg"
 		<td class="time">18:30～21:00</td>
 		<td class="place">
 			沖洲コミセン<br/>
-			<span style="color: blueviolet;">1Vn</span>
+			<span style="color: blueviolet;">Vn1</span>
 		</td>
 		<td class="plan">合奏　運命①、ペールギュント、ハンガリー舞曲、さんぽ、アイネクライネ</td>
 		<td class="member">猪子さん</td>
@@ -143,8 +143,8 @@ bg_image: "images/49-1-2.jpg"
 		<td class="sat">土</td>
 		<td class="time">18:00～21:00</td>
 		<td class="place">
-			月見ヶ丘海浜公園
-			<span style="color: blueviolet;">2Vn</span>
+			月見ヶ丘海浜公園<br/>
+			<span style="color: blueviolet;">Vn2</span>
 		</td>
 		<td class="plan">
 			18:00～19:00通常総会<br/>
@@ -158,7 +158,8 @@ bg_image: "images/49-1-2.jpg"
 		<td class="sat">土</td>
 		<td class="time">18:30～21:00</td>
 		<td class="place">
-			沖洲コミセン
+			沖洲コミセン<br/>
+			<span style="color: blueviolet;">Va</span>
 		</td>
 		<td class="plan">分奏　運命</td>
 		<td class="member">
@@ -172,7 +173,8 @@ bg_image: "images/49-1-2.jpg"
 		<td class="sat">土</td>
 		<td class="time">18:30～21:00</td>
 		<td class="place">
-			月見ヶ丘海浜公園
+			月見ヶ丘海浜公園<br/>
+			<span style="color: blueviolet;">Vc</span>
 		</td>
 		<td class="plan">合奏　運命</td>
 		<td class="trainer">池田先生</td>
@@ -181,11 +183,15 @@ bg_image: "images/49-1-2.jpg"
 	<tr>
 		<td class="date">7月3日</td>
 		<td class="sat">土</td>
-		<td class="time">13:00～21:00</td>
+		<td class="time">18:30～21:00</td>
 		<td class="place">
-			（調整中）
+			沖洲コミセン　集会室<br/>
+			<span style="color: blueviolet;">Cb</span>
 		</td>
-		<td class="plan">追悼コンサート練習</td>
+		<td class="plan">
+			18:30～20:00 弦分奏（定期）<br/>
+			20:00～21:00 追悼コンサート（弦楽）
+		</td>
 		<td class="trainer"></td>
 		<td class="remarks">7/3 ジュニア通常練習</td>
 	</tr>
@@ -212,9 +218,10 @@ bg_image: "images/49-1-2.jpg"
 		<td class="sat">土</td>
 		<td class="time">18:30～21:00</td>
 		<td class="place">
-			藍住町総合文化ホール
+			藍住町総合文化ホール<br/>
+			<span style="color: blueviolet;">木管</span>
 		</td>
-		<td class="plan">合奏　運命①、ペールギュント、ハンガリー舞曲、さんぽ、アイネクライネ</td>
+		<td class="plan">合奏　さんぽ、ペールギュント、ハンガリー舞曲、運命①、アイネクライネ</td>
 		<td class="trainer">山田先生</td>
 		<td class="remarks">7/10 ジュニア合同練習</td>
 	</tr>
@@ -223,6 +230,8 @@ bg_image: "images/49-1-2.jpg"
 		<td class="sat">土</td>
 		<td class="time">18:30～21:00</td>
 		<td class="place">
+			月見ヶ丘海浜公園<br/>
+			<span style="color: blueviolet;">金管</span>
 		</td>
 		<td class="plan">
 			合奏　運命、ドヴォ８
@@ -231,13 +240,17 @@ bg_image: "images/49-1-2.jpg"
 			北島さん<br/>
 			猪子さん
 		</td>
-		<td class="remarks"></td>
+		<td class="remarks">
+			7/17、18、19 県オケキャンプ
+		</td>
 	</tr>
 	<tr>
 		<td class="date">24日</td>
 		<td class="sat">土</td>
 		<td class="time">18:30～21:00</td>
 		<td class="place">
+			月見ヶ丘海浜公園<br/>
+			<span style="color: blueviolet;">Vn1</span>
 		</td>
 		<td class="plan">
 			合奏　運命①②③
@@ -250,10 +263,12 @@ bg_image: "images/49-1-2.jpg"
 		<td class="sun">日</td>
 		<td class="time">10:00～16:00</td>
 		<td class="place">
+			月見ヶ丘海浜公園
+			<span style="color: blueviolet;">Vn2</span>
 		</td>
 		<td class="plan">
-			合奏　10:00～11:30運命③④<br/>
-			　　　12:30～16:00ドヴォ８
+			合奏　10:00～11:30 運命③④<br/>
+			　　　12:30～16:00 ドヴォ８
 		</td>
 		<td class="conductor">田中先生</td>
 		<td class="remarks"></td>
@@ -263,9 +278,11 @@ bg_image: "images/49-1-2.jpg"
 		<td class="sat">土</td>
 		<td class="time">18:30～21:00</td>
 		<td class="place">
+			沖洲コミセン<br/>
+			<span style="color: blueviolet;">Va</span>
 		</td>
 		<td class="plan">
-			合奏　運命①、アイネクライネ
+			合奏　運命①、アイネクライネ、（その他調整中）
 		</td>
 		<td class="conductor">広田先生</td>
 		<td class="remarks"></td>
@@ -273,8 +290,10 @@ bg_image: "images/49-1-2.jpg"
 	<tr>
 		<td class="date">8月1日</td>
 		<td class="sun">日</td>
-		<td class="time">10:00～16:00</td>
+		<td class="time">12:00～16:00</td>
 		<td class="place">
+			沖洲コミセン<br/>
+			<span style="color: blueviolet;">Vc</span>
 		</td>
 		<td class="plan">
 			合奏　ペールギュント、ハンガリー舞曲、さんぽ
@@ -287,12 +306,30 @@ bg_image: "images/49-1-2.jpg"
 		<td class="sat">土</td>
 		<td class="time">18:30～21:00</td>
 		<td class="place">
+			沖洲コミセン<br/>
+			<span style="color: blueviolet;">Cb</span>
 		</td>
 		<td class="plan">
-			合奏　運命①、ペールギュント、ハンガリー舞曲、さんぽ、アイネクライネ
+			合奏　さんぽ、ペールギュント、ハンガリー舞曲、運命①、アイネクライネ
 		</td>
 		<td class="member">猪子さん</td>
-		<td class="remarks">8/7 ジュニア合同練習</td>
+		<td class="remarks">
+			8/7 ジュニア合同練習<br/>
+			8/7、8 県音楽祭
+		</td>
+	</tr>
+	<tr>
+		<td class="date">8日</td>
+		<td class="sun">日</td>
+		<td class="time"></td>
+		<td class="place">
+			むらさきホール
+		</td>
+		<td class="plan">
+			とくしま音楽祭2021
+		</td>
+		<td class="conductor"></td>
+		<td class="remarks"></td>
 	</tr>
 	<tr>
 		<td class="date">14日</td>
@@ -311,7 +348,8 @@ bg_image: "images/49-1-2.jpg"
 		<td class="sat">土</td>
 		<td class="time">午後</td>
 		<td class="place">
-			藍住総合文化ホール
+			藍住総合文化ホール<br/>
+			<span style="color: blueviolet;">木管</span>
 		</td>
 		<td class="rehersal">
 			親子で楽しむクラシックコンサート リハ
@@ -327,7 +365,8 @@ bg_image: "images/49-1-2.jpg"
 			本番 14:00 ～
 		</td>
 		<td class="place">
-			藍住総合文化ホール
+			藍住総合文化ホール<br/>
+			<span style="color: blueviolet;">金管</span>
 		</td>
 		<td class="concert">
 			親子で楽しむクラシックコンサート 本番
@@ -340,7 +379,8 @@ bg_image: "images/49-1-2.jpg"
 		<td class="sat">土</td>
 		<td class="time">18:30～21:00</td>
 		<td class="place">
-			月見ヶ丘海浜公園
+			月見ヶ丘海浜公園（その他調整中）<br/>
+			<span style="color: blueviolet;">Vn1、木管</span>
 		</td>
 		<td class="plan">
 			弦パート練習　運命<br/>
@@ -357,7 +397,8 @@ bg_image: "images/49-1-2.jpg"
 		<td class="sat">土</td>
 		<td class="time">18:30～21:00</td>
 		<td class="place">
-			月見ヶ丘海浜公園
+			月見ヶ丘海浜公園<br/>
+			<span style="color: blueviolet;">Vn2、金管</span>
 		</td>
 		<td class="plan">
 			弦パート練習　ドヴォ８<br/>
@@ -374,6 +415,8 @@ bg_image: "images/49-1-2.jpg"
 		<td class="sat">土</td>
 		<td class="time">18:30～21:00</td>
 		<td class="place">
+			沖洲コミセン<br/>
+			<span style="color: blueviolet;">Va</span>
 		</td>
 		<td class="plan">
 			合奏　運命①②③
@@ -386,10 +429,12 @@ bg_image: "images/49-1-2.jpg"
 		<td class="sun">日</td>
 		<td class="time">10:00～16:00</td>
 		<td class="place">
+			沖洲コミセン<br/>
+			<span style="color: blueviolet;">Vc</span>
 		</td>
 		<td class="plan">
-			合奏　10:00～11:30　運命③④<br/>
-			　　　12:30～16:00　ドヴォ８
+			合奏　10:00～11:30 運命③④<br/>
+			　　　12:30～16:00 ドヴォ８
 		</td>
 		<td class="conductor">田中先生</td>
 		<td class="remarks"></td>
@@ -399,6 +444,8 @@ bg_image: "images/49-1-2.jpg"
 		<td class="sat">土</td>
 		<td class="time">18:30～21:00</td>
 		<td class="place">
+			（調整中）<br/>
+			<span style="color: blueviolet;">Cb</span>
 		</td>
 		<td class="plan">
 			合奏　運命①②③
@@ -411,12 +458,25 @@ bg_image: "images/49-1-2.jpg"
 		<td class="sun">日</td>
 		<td class="time">10:00～16:00</td>
 		<td class="place">
+			（調整中）<br/>
+			<span style="color: blueviolet;">木管</span>
 		</td>
 		<td class="plan">
-			合奏　10:00～11:30　運命③④<br/>
-			　　　12:30～16:00　ドヴォ８
+			合奏　10:00～11:30 運命③④<br/>
+			　　　12:30～16:00 ドヴォ８
 		</td>
 		<td class="conductor">田中先生</td>
+		<td class="remarks"></td>
+	</tr>
+	<tr>
+		<td class="date">20日</td>
+		<td class="mon">月</td>
+		<td class="time"></td>
+		<td class="place">
+		</td>
+		<td class="plan">
+		</td>
+		<td class="conductor"></td>
 		<td class="remarks">9/20 ジュニア合同練習</td>
 	</tr>
 	<tr>
@@ -424,7 +484,8 @@ bg_image: "images/49-1-2.jpg"
 		<td class="sat">土</td>
 		<td class="time">16:00～20:00</td>
 		<td class="place">
-			むらさきホール
+			むらさきホール<br/>
+			<span style="color: blueviolet;">金管</span>
 		</td>
 		<td class="rehersal">
 			第50回定期演奏会 リハ
