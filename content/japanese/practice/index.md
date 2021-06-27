@@ -5,7 +5,7 @@ draft: false
 bg_image: "images/49-1-2.jpg"
 ---
 
-<p style="color: blue; text-align: center;">2021年6月14日　更新</p>
+<p style="color: blue; text-align: center;">2021年6月27日　更新</p>
 
 {{< mdtable class = "simple-table" >}}
 <table class="practice">
@@ -230,7 +230,7 @@ bg_image: "images/49-1-2.jpg"
 		<td class="sat">土</td>
 		<td class="time">18:30～21:00</td>
 		<td class="place">
-			月見ヶ丘海浜公園<br/>
+			沖洲コミセン<br/>
 			<span style="color: blueviolet;">金管</span>
 		</td>
 		<td class="plan">
@@ -379,12 +379,14 @@ bg_image: "images/49-1-2.jpg"
 		<td class="sat">土</td>
 		<td class="time">18:30～21:00</td>
 		<td class="place">
-			月見ヶ丘海浜公園（その他調整中）<br/>
-			<span style="color: blueviolet;">Vn1、木管</span>
+			沖洲コミセン（Vn集会室、Va和室、Vc研修室、Cb会議室）<br/>
+			<span style="color: blueviolet;">Vn1</span><br/>
+			月見ヶ丘海浜公園<br/>
+			<span style="color: blueviolet;">木管</span>
 		</td>
 		<td class="plan">
-			弦パート練習　運命<br/>
-			管分奏　運命
+			弦パート練習　ドヴォ８、運命<br/>
+			管打分奏　運命
 		</td>
 		<td class="member">
 			弦トップ<br/>
@@ -398,14 +400,16 @@ bg_image: "images/49-1-2.jpg"
 		<td class="time">18:30～21:00</td>
 		<td class="place">
 			月見ヶ丘海浜公園<br/>
-			<span style="color: blueviolet;">Vn2、金管</span>
+			<span style="color: blueviolet;">Vn2</span><br/>
+			沖洲コミセン<br/>
+			<span style="color: blueviolet;">金管</span>
 		</td>
 		<td class="plan">
-			弦パート練習　ドヴォ８<br/>
-			管分奏　ドヴォ８
+			弦分奏　ドヴォ８、運命<br/>
+			管打分奏　ドヴォ８
 		</td>
 		<td class="member">
-			弦トップ<br/>
+			猪子さん<br/>
 			豊田さん
 		</td>
 		<td class="remarks">9/4 ジュニア通常練習</td>
@@ -444,7 +448,7 @@ bg_image: "images/49-1-2.jpg"
 		<td class="sat">土</td>
 		<td class="time">18:30～21:00</td>
 		<td class="place">
-			（調整中）<br/>
+			四国大学サブアリーナ<br/>
 			<span style="color: blueviolet;">Cb</span>
 		</td>
 		<td class="plan">
@@ -458,7 +462,7 @@ bg_image: "images/49-1-2.jpg"
 		<td class="sun">日</td>
 		<td class="time">10:00～16:00</td>
 		<td class="place">
-			（調整中）<br/>
+			四国大学サブアリーナ<br/>
 			<span style="color: blueviolet;">木管</span>
 		</td>
 		<td class="plan">
