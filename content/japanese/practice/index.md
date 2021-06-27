@@ -263,7 +263,7 @@ bg_image: "images/49-1-2.jpg"
 		<td class="sun">日</td>
 		<td class="time">10:00～16:00</td>
 		<td class="place">
-			月見ヶ丘海浜公園
+			月見ヶ丘海浜公園<br/>
 			<span style="color: blueviolet;">Vn2</span>
 		</td>
 		<td class="plan">
