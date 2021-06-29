@@ -5,7 +5,7 @@ draft: false
 bg_image: "images/49-1-2.jpg"
 ---
 
-<p style="color: blue; text-align: center;">2021年6月27日　更新</p>
+<p style="color: blue; text-align: center;">2021年6月29日　更新</p>
 
 {{< mdtable class = "simple-table" >}}
 <table class="practice">
@@ -189,7 +189,7 @@ bg_image: "images/49-1-2.jpg"
 			<span style="color: blueviolet;">Cb</span>
 		</td>
 		<td class="plan">
-			18:30～20:00 弦分奏（定期）<br/>
+			18:30～20:00 弦分奏（運命①、ドヴォ８②③）<br/>
 			20:00～21:00 追悼コンサート（弦楽）
 		</td>
 		<td class="trainer"></td>
