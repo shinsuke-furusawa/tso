@@ -5,7 +5,7 @@ draft: false
 bg_image: "images/49-1-2.jpg"
 ---
 
-<p style="color: blue; text-align: center;">2021年6月29日　更新</p>
+<p style="color: blue; text-align: center;">2021年7月17日　更新</p>
 
 {{< mdtable class = "simple-table" >}}
 <table class="practice">
@@ -268,7 +268,7 @@ bg_image: "images/49-1-2.jpg"
 		</td>
 		<td class="plan">
 			合奏　10:00～11:30 運命③④<br/>
-			　　　12:30～16:00 ドヴォ８
+			　　　12:30～16:00 ドヴォ８、アンコール
 		</td>
 		<td class="conductor">田中先生</td>
 		<td class="remarks"></td>
