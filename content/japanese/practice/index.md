@@ -5,7 +5,7 @@ draft: false
 bg_image: "images/49-1-2.jpg"
 ---
 
-<p style="color: blue; text-align: center;">2021年7月17日　更新</p>
+<p style="color: blue; text-align: center;">2021年7月18日　更新</p>
 
 {{< mdtable class = "simple-table" >}}
 <table class="practice">
@@ -241,7 +241,6 @@ bg_image: "images/49-1-2.jpg"
 			猪子さん
 		</td>
 		<td class="remarks">
-			7/17、18、19 県オケキャンプ
 		</td>
 	</tr>
 	<tr>
@@ -314,22 +313,8 @@ bg_image: "images/49-1-2.jpg"
 		</td>
 		<td class="member">猪子さん</td>
 		<td class="remarks">
-			8/7 ジュニア合同練習<br/>
-			8/7、8 県音楽祭
+			8/7 ジュニア合同練習
 		</td>
-	</tr>
-	<tr>
-		<td class="date">8日</td>
-		<td class="sun">日</td>
-		<td class="time"></td>
-		<td class="place">
-			むらさきホール
-		</td>
-		<td class="plan">
-			とくしま音楽祭2021
-		</td>
-		<td class="conductor"></td>
-		<td class="remarks"></td>
 	</tr>
 	<tr>
 		<td class="date">14日</td>
@@ -426,7 +411,7 @@ bg_image: "images/49-1-2.jpg"
 			合奏　運命①②③
 		</td>
 		<td class="conductor">田中先生</td>
-		<td class="remarks"></td>
+		<td class="remarks">9/11 ジュニア合同練習</td>
 	</tr>
 	<tr>
 		<td class="date">12日</td>
