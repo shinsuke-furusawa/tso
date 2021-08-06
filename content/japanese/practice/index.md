@@ -5,7 +5,7 @@ draft: false
 bg_image: "images/49-1-2.jpg"
 ---
 
-<p style="color: blue; text-align: center;">2021年7月21日　更新</p>
+<p style="color: blue; text-align: center;">2021年8月6日　更新</p>
 
 {{< mdtable class = "simple-table" >}}
 <table class="practice">
@@ -331,7 +331,10 @@ bg_image: "images/49-1-2.jpg"
 	<tr>
 		<td class="date">21日</td>
 		<td class="sat">土</td>
-		<td class="time">午後</td>
+		<td class="time">
+			17:00 ～ 舞台設営<br/>
+			18:00 ～ 21:00 リハーサル
+		</td>
 		<td class="place">
 			藍住総合文化ホール<br/>
 			<span style="color: blueviolet;">木管</span>
@@ -346,8 +349,8 @@ bg_image: "images/49-1-2.jpg"
 		<td class="date">22日</td>
 		<td class="sun">日</td>
 		<td class="time">
-			GP 10:00 ～<br/>
-			本番 14:00 ～
+			10:00 ～ GP<br/>
+			14:00 ～ 本番
 		</td>
 		<td class="place">
 			藍住総合文化ホール<br/>
