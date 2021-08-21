@@ -555,8 +555,13 @@ bg_image: "images/49-1-2.jpg"
 	<tr>
 		<td class="date">8月22日</td>
 		<td class="sun">日</td>
-		<td colspan="4" class="plan">親子で楽しむクラシックコンサート（藍住町総合文化ホール）</td>
-		<td colspan="2" class="remarks">指揮：広田 智之</td>
+		<td colspan="4" class="plan">
+			<span style="color:red;font-weight:800;">※ とくしまアラート発動のため延期（日程未定）</span><br/>
+			<span class="del">親子で楽しむクラシックコンサート（藍住町総合文化ホール）</span>
+		</td>
+		<td colspan="2" class="remarks">
+			<span class="del">指揮：広田 智之</span>
+		</td>
 	</tr> 
 	<tr>
 		<td class="date">9月26日</td>
