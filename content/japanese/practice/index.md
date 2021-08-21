@@ -5,7 +5,7 @@ draft: false
 bg_image: "images/49-1-2.jpg"
 ---
 
-<p style="color: blue; text-align: center;">2021年8月6日　更新</p>
+<p style="color: blue; text-align: center;">2021年8月21日　更新</p>
 
 {{< mdtable class = "simple-table" >}}
 <table class="practice">
@@ -331,35 +331,37 @@ bg_image: "images/49-1-2.jpg"
 	<tr>
 		<td class="date">21日</td>
 		<td class="sat">土</td>
-		<td class="time">
+		<td class="time"><span class="del">
 			17:00 ～ 舞台設営<br/>
-			18:00 ～ 21:00 リハーサル
+			18:00 ～ 21:00 リハーサル</span>
 		</td>
-		<td class="place">
+		<td class="place"><span class="del">
 			藍住総合文化ホール<br/>
-			<span style="color: blueviolet;">木管</span>
+			<span style="color: blueviolet;">木管</span></span>
 		</td>
 		<td class="rehersal">
-			親子で楽しむクラシックコンサート リハ
+			<span style="color:red;font-weight:800;">※ とくしまアラート発動のため中止</span><br/>
+			<span class="del">親子で楽しむクラシックコンサート リハ</span>
 		</td>
-		<td class="conductor">広田先生</td>
+		<td class="conductor"><span class="del">広田先生</span></td>
 		<td class="remarks">8/21 ジュニア通常練習</td>
 	</tr>
 	<tr>
 		<td class="date">22日</td>
 		<td class="sun">日</td>
-		<td class="time">
+		<td class="time"><span class="del">
 			10:00 ～ GP<br/>
-			14:00 ～ 本番
+			14:00 ～ 本番</span>
 		</td>
 		<td class="place">
-			藍住総合文化ホール<br/>
-			<span style="color: blueviolet;">金管</span>
+			<span class="del">藍住総合文化ホール<br/>
+			<span style="color: blueviolet;">金管</span></span>
 		</td>
 		<td class="concert">
-			親子で楽しむクラシックコンサート 本番
+			<span style="color:red;font-weight:800;">※ とくしまアラート発動のため延期（日程未定）</span><br/>
+			<span class="del">親子で楽しむクラシックコンサート 本番</span>
 		</td>
-		<td class="conductor">広田先生</td>
+		<td class="conductor"><span class="del">広田先生</span></td>
 		<td class="remarks"></td>
 	</tr>
 	<tr>
