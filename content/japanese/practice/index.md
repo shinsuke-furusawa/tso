@@ -5,7 +5,7 @@ draft: false
 bg_image: "images/49-1-2.jpg"
 ---
 
-<p style="color: blue; text-align: center;">2021年8月21日　更新</p>
+<p style="color: blue; text-align: center;">2021年8月22日　更新</p>
 
 {{< mdtable class = "simple-table" >}}
 <table class="practice">
@@ -367,20 +367,23 @@ bg_image: "images/49-1-2.jpg"
 	<tr>
 		<td class="date">28日</td>
 		<td class="sat">土</td>
-		<td class="time">18:30～21:00</td>
+		<td class="time">
+			<span class="del">18:30～21:00</span>
+		</td>
 		<td class="place">
-			沖洲コミセン（Vn集会室、Va和室、Vc研修室、Cb会議室）<br/>
+			<span class="del">沖洲コミセン（Vn集会室、Va和室、Vc研修室、Cb会議室）<br/>
 			<span style="color: blueviolet;">Vn1</span><br/>
 			月見ヶ丘海浜公園（管打）<br/>
-			<span style="color: blueviolet;">木管</span>
+			<span style="color: blueviolet;">木管</span></span>
 		</td>
 		<td class="plan">
-			弦パート練習　ドヴォ８、運命、アンコール<br/>
-			管打分奏　運命
+			<span style="color:red;font-weight:800;">※ とくしまアラート発動のため中止</span><br/>
+			<span class="del">弦パート練習　ドヴォ８、運命、アンコール<br/>
+			管打分奏　運命</span>
 		</td>
 		<td class="member">
-			弦トップ<br/>
-			北島さん
+			<span class="del">弦トップ<br/>
+			北島さん</span>
 		</td>
 		<td class="remarks"></td>
 	</tr>
