@@ -5,7 +5,7 @@ draft: false
 bg_image: "images/49-1-2.jpg"
 ---
 
-<p style="color: blue; text-align: center;">2021年9月10日　更新</p>
+<p style="color: blue; text-align: center;">2021年9月29日　更新</p>
 
 {{< mdtable class = "simple-table" >}}
 <table class="practice">
@@ -587,13 +587,18 @@ bg_image: "images/49-1-2.jpg"
 	<tr>
 		<td class="date">10月2日</td>
 		<td class="sat">土</td>
-		<td class="time"></td>
+		<td class="time">18:30～21:00</td>
 		<td class="place">
+			月見ヶ丘海浜公園<br/>
+			<span style="color: blueviolet;">木管</span>
 		</td>
-		<td class="holiday">
-			休み
+		<td class="plan">
+			団員集会後、合奏　運命、ドヴォ８
 		</td>
-		<td class="member"></td>
+		<td class="member">
+			北島さん<br/>
+			猪子さん
+		</td>
 		<td class="remarks"></td>
 	</tr>
 	<tr>
