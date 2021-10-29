@@ -5,7 +5,7 @@ draft: false
 bg_image: "images/49-1-2.jpg"
 ---
 
-<p style="color: blue; text-align: center;">2021年10月25日　更新</p>
+<p style="color: blue; text-align: center;">2021年10月29日　更新</p>
 
 {{< mdtable class = "simple-table" >}}
 <table class="practice">
@@ -25,119 +25,7 @@ bg_image: "images/49-1-2.jpg"
 		<td colspan="7"  class="year">2021年</td>
 	</tr>
 	<tr>
-		<td class="date">10月2日</td>
-		<td class="sat">土</td>
-		<td class="time">18:30～21:00</td>
-		<td class="place">
-			月見ヶ丘海浜公園<br/>
-			<span style="color: blueviolet;">木管</span>
-		</td>
-		<td class="plan">
-			団員集会後、合奏　運命、ドヴォ８
-		</td>
-		<td class="member">
-			北島さん<br/>
-			猪子さん
-		</td>
-		<td class="remarks"></td>
-	</tr>
-	<tr>
-		<td class="date">9日</td>
-		<td class="sat">土</td>
-		<td class="time">
-			14:00～17:00<br/>
-			18:00～21:00
-		</td>
-		<td class="place">
-			月見ヶ丘海浜公園<br/>
-			<span style="color: blueviolet;">金管</span>
-		</td>
-		<td class="plan">
-			14:00～17:00 ドヴォ８（全楽章）<br/>
-			18:00～21:00 運命（全楽章）
-		</td>
-		<td class="conductor">
-			田中先生
-		</td>
-		<td class="remarks"></td>
-	</tr>
-	<tr>
-		<td class="date">16日</td>
-		<td class="sat">土</td>
-		<td class="time">
-			18:00～21:00
-		</td>
-		<td class="place">
-			月見ヶ丘海浜公園<br/>
-			<span style="color: blueviolet;">Vn1</span>
-		</td>
-		<td class="plan">
-			18:00～21:00 運命1/2/3楽章
-		</td>
-		<td class="conductor">
-			田中先生
-		</td>
-		<td class="remarks"></td>
-	</tr>
-	<tr>
-		<td class="date">17日</td>
-		<td class="sun">日</td>
-		<td class="time">
-			10:00～11:30<br/>
-			12:30～16:00
-		</td>
-		<td class="place">
-			月見ヶ丘海浜公園<br/>
-			<span style="color: blueviolet;">Vn2</span>
-		</td>
-		<td class="plan">
-			10:00～11:30 運命4楽章<br/>
-			12:30～16:00 ドヴォ８（全楽章）
-		</td>
-		<td class="conductor">
-			田中先生
-		</td>
-		<td class="remarks"></td>
-	</tr>
-	<tr>
-		<td class="date">23日</td>
-		<td class="sat">土</td>
-		<td class="time">
-			16:00～20:00
-		</td>
-		<td class="place">
-			むらさきホール<br/>
-			<span style="color: blueviolet;">Va</span>
-		</td>
-		<td class="rehersal">
-			リハーサル（曲順）
-		</td>
-		<td class="conductor">
-			田中先生
-		</td>
-		<td class="remarks"></td>
-	</tr>
-	<tr>
-		<td class="date">24日</td>
-		<td class="sun">日</td>
-		<td class="time">
-			10:00 ゲネプロ<br/>
-			14:00 本番
-		</td>
-		<td class="place">
-			むらさきホール<br/>
-			<span style="color: blueviolet;">Vc、Cb</span>
-		</td>
-		<td class="concert">
-			第50回定期演奏会 本番
-		</td>
-		<td class="conductor">
-			田中先生
-		</td>
-		<td class="remarks"></td>
-	</tr>
-	<tr>
-		<td class="date">30日</td>
+		<td class="date">10月30日</td>
 		<td class="sat">土</td>
 		<td class="time">
 			18:30～21:00
@@ -147,7 +35,8 @@ bg_image: "images/49-1-2.jpg"
 			<span style="color: blueviolet;">木管</span>
 		</td>
 		<td class="plan">
-			合奏
+			合奏<br/>
+			ツァラ・25・魔法・ラフマニ
 		</td>
 		<td class="member">
 			北島さん
@@ -165,7 +54,8 @@ bg_image: "images/49-1-2.jpg"
 			<span style="color: blueviolet;">金管</span>
 		</td>
 		<td class="plan">
-			合奏
+			合奏<br/>
+			ツァラ・魔法・シネマ・ガブリ・25
 		</td>
 		<td class="member">
 			北島さん<br/>
@@ -185,7 +75,8 @@ bg_image: "images/49-1-2.jpg"
 			<span style="color: blueviolet;">Vn1</span>
 		</td>
 		<td class="plan">
-			合奏
+			合奏<br/>
+			魔法・ラフマニ
 		</td>
 		<td class="member">
 			猪子さん<br/>
@@ -204,7 +95,8 @@ bg_image: "images/49-1-2.jpg"
 			<span style="color: blueviolet;">Vn2</span>
 		</td>
 		<td class="plan">
-			合奏
+			合奏<br/>
+			ツァラ・25・魔法・ラフマニ
 		</td>
 		<td class="conductor">
 			山田先生
@@ -225,7 +117,9 @@ bg_image: "images/49-1-2.jpg"
 		</td>
 		<td class="plan">
 			管打分奏<br/>
-			弦分奏
+			ツァラ・魔法・シネマ・ガブリ・25<br/>
+			TOC 弦分奏<br/>
+			25
 		</td>
 		<td class="member">
 			北島さん<br/>
@@ -245,7 +139,10 @@ bg_image: "images/49-1-2.jpg"
 			<span style="color: blueviolet;">Vc、Cb</span><br/>
 		</td>
 		<td class="plan">
-			弦分奏
+			TOC VnVa<br/>
+			基礎練習<br/>
+			TOC 弦分奏<br/>
+			アイネク1mov、運命1mov
 		</td>
 		<td class="member">
 			森先生
@@ -263,7 +160,8 @@ bg_image: "images/49-1-2.jpg"
 			<span style="color: blueviolet;">金管</span><br/>
 		</td>
 		<td class="plan">
-			合奏
+			合奏<br/>
+			ツァラ・魔法・お楽・シネマ・ガブリ・25
 		</td>
 		<td class="conductor">
 			山田先生
@@ -281,7 +179,8 @@ bg_image: "images/49-1-2.jpg"
 			<span style="color: blueviolet;">Vn1</span><br/>
 		</td>
 		<td class="plan">
-			合奏 or 分奏
+			合奏<br/>
+			魔法・ラフマニ
 		</td>
 		<td class="member">
 		</td>
@@ -298,7 +197,8 @@ bg_image: "images/49-1-2.jpg"
 			<span style="color: blueviolet;">Vn2</span><br/>
 		</td>
 		<td class="plan">
-			合奏 or 分奏
+			分奏<br/>
+			25・魔法・ラフマニ
 		</td>
 		<td class="member">
 			猪子さん<br/>
@@ -317,7 +217,8 @@ bg_image: "images/49-1-2.jpg"
 			<span style="color: blueviolet;">Va</span><br/>
 		</td>
 		<td class="plan">
-			合奏
+			合奏<br/>
+			全曲・演奏会順
 		</td>
 		<td class="conductor">
 			山田先生
@@ -349,7 +250,8 @@ bg_image: "images/49-1-2.jpg"
 			<span style="color: blueviolet;">Vc、Cb</span><br/>
 		</td>
 		<td class="plan">
-			合奏　ラフマニノフ
+			合奏<br/>
+			ラフマニ
 		</td>
 		<td class="conductor">
 			山田先生<br/>
@@ -368,7 +270,8 @@ bg_image: "images/49-1-2.jpg"
 			<span style="color: blueviolet;">木管</span><br/>
 		</td>
 		<td class="plan">
-			合奏
+			合奏<br/>
+			ツァラ・魔法・お楽・シネマ・ガブリ・25
 		</td>
 		<td class="conductor">
 			山田先生
@@ -386,7 +289,8 @@ bg_image: "images/49-1-2.jpg"
 			<span style="color: blueviolet;">金管</span><br/>
 		</td>
 		<td class="plan">
-			合奏　全曲
+			合奏<br/>
+			全曲・演奏会順
 		</td>
 		<td class="member">
 			北島さん<br/>
