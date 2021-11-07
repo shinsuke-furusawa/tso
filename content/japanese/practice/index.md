@@ -5,7 +5,7 @@ draft: false
 bg_image: "images/49-1-2.jpg"
 ---
 
-<p style="color: blue; text-align: center;">2021年10月29日　更新</p>
+<p style="color: blue; text-align: center;">2021年11月08日　更新</p>
 
 {{< mdtable class = "simple-table" >}}
 <table class="practice">
@@ -96,7 +96,7 @@ bg_image: "images/49-1-2.jpg"
 		</td>
 		<td class="plan">
 			合奏<br/>
-			ツァラ・25・魔法・ラフマニ
+			ツァラ・魔法・25・ラフマニ
 		</td>
 		<td class="conductor">
 			山田先生
