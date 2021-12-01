@@ -5,7 +5,7 @@ draft: false
 bg_image: "images/49-1-2.jpg"
 ---
 
-<p style="color: blue; text-align: center;">2021年11月08日　更新</p>
+<p style="color: blue; text-align: center;">2021年12月01日　更新</p>
 
 {{< mdtable class = "simple-table" >}}
 <table class="practice">
@@ -179,10 +179,15 @@ bg_image: "images/49-1-2.jpg"
 			<span style="color: blueviolet;">Vn1</span><br/>
 		</td>
 		<td class="plan">
-			合奏<br/>
-			魔法・ラフマニ
+			管打分奏<br/>
+			スターウォーズ・魔法・ラフマニ<br/>
+			弦分奏<br/>
+			25・魔法・ラフマニ
 		</td>
 		<td class="member">
+			北島さん<br/>
+			豊田さん<br/>
+			猪子さん
 		</td>
 		<td class="remarks">12日:ジュニア第14回コンサート</td>
 	</tr>
@@ -197,12 +202,15 @@ bg_image: "images/49-1-2.jpg"
 			<span style="color: blueviolet;">Vn2</span><br/>
 		</td>
 		<td class="plan">
-			分奏<br/>
+			管打分奏<br/>
+			スターウォーズ・魔法・ラフマニ<br/>
+			弦分奏<br/>
 			25・魔法・ラフマニ
 		</td>
 		<td class="member">
-			猪子さん<br/>
-			豊田さん
+			北島さん<br/>
+			豊田さん<br/>
+			猪子さん
 		</td>
 		<td class="remarks"></td>
 	</tr>
