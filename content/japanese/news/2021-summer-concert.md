@@ -1,6 +1,6 @@
 ---
 title: "親子で楽しむクラシックコンサート（3月27日に延期）"
-date: 2021-08-21
+date: 2021-12-20
 #image : "images/portfolio/work1.jpg"
 categories: ["公演情報"]
 draft: false
@@ -96,6 +96,5 @@ https://www.town.aizumi.lg.jp/bunka-h/event_docs/2021052200017/
 
 <br/>
 
-![チラシ表](/images/news/2021-summer-concert-front.jpg)
+![チラシ表](/images/news/20210928_hurikae_oyakoconcerttop.png)
 
-![チラシ裏](/images/news/2021-summer-concert-back.jpg)

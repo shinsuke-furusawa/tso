@@ -2,23 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://tso.serio.jp/news/2022-new-year-concert/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://tso.serio.jp/categories/</loc>
-    <lastmod>2021-10-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://tso.serio.jp/news/</loc>
-    <lastmod>2021-10-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://tso.serio.jp/categories/%E5%85%AC%E6%BC%94%E6%83%85%E5%A0%B1/</loc>
-    <lastmod>2021-10-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://tso.serio.jp/</loc>
-    <lastmod>2021-10-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://tso.serio.jp/news/2021-summer-concert/</loc>
+    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://tso.serio.jp/news/2021-regular-concert2/</loc>
     <lastmod>2021-10-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://tso.serio.jp/news/2021-summer-concert/</loc>
-    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://tso.serio.jp/news/2021-new-year-concert/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
