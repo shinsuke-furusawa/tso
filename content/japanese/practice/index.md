@@ -384,7 +384,7 @@ bg_image: "images/49-1-2.jpg"
 			2022 ニューイヤーコンサート（むらさきホール）
 		</td>
 		<td colspan="2" class="remarks">
-			指揮：山田 啓明
+			指揮：山田 啓明<br/>
 			ピアノ：秋元 孝介
 		</td>
 	</tr> 
