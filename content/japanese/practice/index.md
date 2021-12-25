@@ -385,6 +385,7 @@ bg_image: "images/49-1-2.jpg"
 		</td>
 		<td colspan="2" class="remarks">
 			指揮：山田 啓明
+			ピアノ：秋元 孝介
 		</td>
 	</tr> 
 	<tr>
