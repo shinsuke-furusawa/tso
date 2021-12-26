@@ -254,7 +254,7 @@ bg_image: "images/49-1-2.jpg"
 			18:30～21:00
 		</td>
 		<td class="place">
-			八万中央コミセン<br/>
+			<span style="color: red;">八万中央コミセン</span><br/>
 			<span style="color: blueviolet;">Vc、Cb</span><br/>
 		</td>
 		<td class="plan">
