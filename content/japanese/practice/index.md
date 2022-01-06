@@ -5,7 +5,7 @@ draft: false
 bg_image: "images/49-1-2.jpg"
 ---
 
-<p style="color: blue; text-align: center;">2021年12月26日　更新</p>
+<p style="color: blue; text-align: center;">2022年1月6日　更新</p>
 
 {{< mdtable class = "simple-table" >}}
 <table class="practice">
@@ -311,7 +311,7 @@ bg_image: "images/49-1-2.jpg"
 		<td class="date">22日</td>
 		<td class="sat">土</td>
 		<td class="time">
-			16:00～21:00
+			16:00～19:30
 		</td>
 		<td class="place">
 			むらさきホール<br/>
