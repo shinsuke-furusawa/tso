@@ -5,8 +5,8 @@ draft: false
 bg_image: "images/49-1-2.jpg"
 ---
 
-<object data="./pdf/practice_plan.pdf" type="application/pdf" width="100%" height="1000px">
-    <embed src="./pdf/practice_plan.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./pdf/practice_plan.pdf">Download PDF</a>.</p>
+<object data="./pdf/practice_plan.htm" type="application/pdf" width="100%" height="1000px">
+    <embed src="./pdf/practice_plan.htm">
+        <p>This browser does not support html. Please download the html to view it: <a href="./pdf/practice_plan.htm">Download html</a>.</p>
     </embed>
 </object>
